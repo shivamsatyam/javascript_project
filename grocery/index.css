@@ -1,0 +1,173 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.container{
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box{
+    margin: auto auto;
+    width: 560px;
+    background: white;
+    box-shadow: 1px 1px 13px -7px black;
+    border-radius: 15px;
+}
+
+
+.title{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 22px 0px;
+}
+
+.input{
+    display: flex;
+    margin: 16px 25px;
+}
+
+.input input{
+    flex-grow: 1;
+    background: aliceblue;
+    border: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 7px;
+}
+
+.input button{
+    width: 103px;
+    height: 28px;
+    border: navajowhite;
+    color: black;
+    font-family: system-ui;
+    font-weight: 500;
+    font-size: 1.2rem;
+    background-color: #a9d7ff;
+    margin: 0px 5px;
+    border-radius: 5px;
+}
+
+
+.list{
+
+}
+
+.list-box{
+    display: flex;
+    justify-content: space-between;
+    margin: 4px 29px;
+}
+
+.list-box h3{
+
+}
+
+
+.item-image{
+    display: flex;
+}
+
+.item-image button{
+    border: navajowhite;
+    background: transparent;
+    margin: 1px 3px;
+}
+
+.item-image button img{
+	    width: 23px;
+    border: navajowhite;
+}
+
+#clear{
+    width: 191px;
+    padding: 7px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: red;
+    background: transparent;
+    border: 2px solid red;
+    margin: auto;
+    display: block;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
